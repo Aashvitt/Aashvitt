@@ -1,25 +1,25 @@
 <h1 align="center"><b>Hi , I'm Aashvitt Singh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Junior%20Developer;6%20months%20+%20of%20IT%20Industry%20Experience;%20Always%20learning%20latest%20technologies!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Junior%20Developer;Computer%20Science%20Undergraduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bharti+Wadhwa..++;Self-taught+Front-End+Developer,;ECE+Final+Year+Student,;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Aashvitt+Singh..++;Self-taught+Front-End+Developer,;CSE+Final+Year+Student,;Active+Learner;Love+to+learn+new+stuffs..<3"></a>
 </p> -->
 
 ---
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 25px></picture> **About me**
+# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
   
-- 🌱 I’m currently learning **Full-Stack Development**
+- 💻 I’m currently a **Cyber Security Enthusiast**
 
-- 👯 I’m looking to collaborate on **Web Development and ML Projects**
+- 🎇 I’m looking to collaborate on **Network Security Projects**
 
-- 🤝 I’m looking for help with **Data Structures and Algorithms**
+- 🤝 I’m working on upcoming **Blockchain Technologies**
 
-- 💬 Ask me about **Algorithms**
+- 💬 Always eager to be an **Active Leaner/ Researcher**
 
-- ⚡ Fun fact **I am a master of Ctrl-C + Ctrl-V 😆**
+- ⚡ Fun fact **I am a Master of Ctrl-C + Ctrl-V 😆**
 
 ---
  <h2 align="center"><u><b>Contributions!!</b></u></h2>
@@ -37,7 +37,7 @@
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<h3 align="center">Languages</h3>
+<h3 align="center">Programming Languages</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -149,4 +149,3 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshAgg&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
 </div>
-<p><img align="center" src="https://activity-graph.herokuapp.com/graph?username=PratyakshAgg&theme=react-dark" alt="PratyakshAgg" /></p>
