@@ -59,37 +59,6 @@
   </a>
 </p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://bulma.io/documentation/elements/tag/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white" alt="bulma" />
-  </a>
-</p>
-
-<h3 align="center">Backend</h3>
-<p align="center">
-<a href="https://www.djangoproject.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
-      alt="django"/> 
-  </a>
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  </a>
-</p>
-
 <h3 align="center">Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
@@ -114,9 +83,15 @@
 </p>
 
 <h3 align="center">IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="visualstudio IDE"/> 
+<p align="center">
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> 
+  </a>
+  <a href="https://www.google.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" />
@@ -130,13 +105,18 @@
 
 <h3 align="center"><b>Let's Connect!! </b><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="75"></h1>
 
-
 <p align="center">
-  <a  href="https://www.linkedin.com/in/pratyaksh-aggarwal-8792821b7/" target="_blank">
+  <a  href="https://www.linkedin.com/in/aashvitt-singh/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratyaksh"/>
   </a>
-  <a href="mailto:pratyaksh2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="pratyaksh"/>
+  <a href = "mailto:singhaashvitt@gmail.com">
+    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank">
+    <img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank">
+    <img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" />
   </a>
 </p>
 
