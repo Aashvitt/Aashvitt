@@ -19,7 +19,7 @@
 
 - 💬 Always eager to be an **Active Leaner/ Researcher**
 
-- ⚡ Fun fact **I am a Master of Ctrl-C + Ctrl-V 😆**
+- ⚡ Fun fact: **I am a Master of Ctrl-C + Ctrl-V 😆**
 
 ---
  <h2 align="center"><u><b>Contributions!!</b></u></h2>
@@ -68,7 +68,7 @@
   <a href="https://www.mysql.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> 
-  </a> 
+  </a>
 </p>
 
 <h3 align="center">Version Control</h3>
@@ -110,13 +110,16 @@
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="pratyaksh"/>
   </a>
   <a href = "mailto:singhaashvitt@gmail.com">
-    <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
+    # <img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/ovindu_vesuvius/" target="blank">
-    <img align="center" src="https://image.flaticon.com/icons/png/128/174/174855.png" alt="insta_ovindu" height="30" width="40" />
+  <a href="https://instagram.com/its_ash9" target="blank">
+    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/ovindu.wijethunge.7/" target="blank">
-    <img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" />
+  <a href="https://www.facebook.com/aashvitt.singh.5/" target="blank">
+    # <img align="center><img src="https://drive.google.com/file/d/1cN_4kA9E5YtIWq-rvH3uqblGGNoohlyF/view?usp=sharing" height="30" width="40" />
+  </a>
+  <a href="https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09" target="blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
 </p>
 
@@ -129,3 +132,13 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratyakshAgg&theme=tokyonight&layout=compact&hide=ejs,html" alt="top-langs" height="200px" />
 </div>
+
+<img src="public/icons/instagram/instagram.svg" alt="Instagram Icon" width="48" height="48"> 
+<img src="public/icons/python/python.svg" alt="Python Icon" width="48" height="48"> 
+<img src="public/icons/js/js.svg" alt="JavaScript Icon" width="48" height="48"> 
+<img src="public/icons/html/html.svg" alt="HTML5 Icon" width="48" height="48"> 
+<img src="public/icons/css/css.svg" alt="CSS3 Icon" width="48" height="48"> 
+<img src="public/icons/nodejs/nodejs.svg" alt="Node.js Icon" width="48" height="48"> 
+<img src="public/icons/mongodb/mongodb.svg" alt="MongoDB Icon" width="48" height="48"> 
+<img src="public/icons/postgresql/postgresql.svg" alt="PostgreSQL Icon" width="48" height="48"> 
+<img src="public/icons/java/java.svg" alt="Java Icon" width="48" height="48">
