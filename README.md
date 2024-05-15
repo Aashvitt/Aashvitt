@@ -24,7 +24,11 @@
 
 - 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1MywxiQWRKUdIfR-HatCq_tg2AsyoSZol/view?usp=sharing)** for more details about me. I'm open to feedback and suggestions!!
 
+
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/> -->
+
 ---
+
  <h2 align="center"><u><b>Contributions!!</b></u></h2>
  
  <div align="center">
@@ -40,7 +44,7 @@
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<h3 align="center">Programming Languages</h3>
+<h3 align="center">💼 Programming Languages</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
@@ -62,7 +66,7 @@
   </a>
 </p>
 
-<h3 align="center">Database</h3>
+<h3 align="center">🗃 Database</h3>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -74,7 +78,7 @@
   </a>
 </p>
 
-<h3 align="center">Version Control</h3>
+<h3 align="center">🧰 Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
@@ -85,7 +89,7 @@
   </a>
 </p>
 
-<h3 align="center">IDEs  & Tools :</h3>
+<h3 align="center">🛠 IDEs  & Tools :</h3>
 <p align="center">
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
