@@ -43,7 +43,7 @@
 <br>
 
 
-<h2 align="center"><u><b>Tech Stack!!   </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px></h2>
+<h2 align="center"><u><b>Knowledge Base!       </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
  
 <!-- <p align="center">
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
@@ -129,13 +129,13 @@
   <a href="https://instagram.com/its_ash9" target="blank">
     <img src=https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97 alt=instagram style="margin-bottom: 5px;" />
   </a>
-  <a href="FACEBOOK" target="blank">
+  <a href="https://www.facebook.com/aashvitt.singh.5" target="blank">
     <img src=https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97 alt=facebook style="margin-bottom: 5px;" />
   </a>
-  <a href="LINKEDIN" target="blank">
+  <a href="https://www.linkedin.com/in/aashvitt-singh/" target="blank">
     <img src=https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97 alt=linkedin style="margin-bottom: 5px;" />
   </a>
-  <a href="TWITTER" target="blank">
+  <a href="https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09" target="blank">
     <img src=https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije alt=twitter style="margin-bottom: 5px;" />
   </a>
 </p>
@@ -144,4 +144,4 @@
 
 -----
 
-Credits: [Aashvitt Singh](https://github.com/Aashvitt)
+Credits: [Aashvint Singh](https://github.com/Aashvitt)
