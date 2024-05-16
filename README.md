@@ -31,6 +31,9 @@
   I'm open to feedback and suggestions!!
   
 
+---
+
+
 
 ---
 
@@ -42,6 +45,7 @@
 </div>
 <br>
 
+---
 
 <h2 align="center"><u><b>Knowledge Base!       </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
  
@@ -75,14 +79,11 @@
 
 <h3 align="center">🗃 Database</h3>
 <p align="center">
+  <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
       alt="mongodb"/> 
   </a> 
-  <a href="https://www.mysql.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> 
-  </a>
 </p>
 
 <h3 align="center">🧰 Version Control</h3>
@@ -101,14 +102,18 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
-  <a href="https://www.google.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white"/>
   </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" />
+  <a href="#">
+    <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>
-  <a href="https://cloud.google.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="cloud"/>
+  <a href="#">
+    <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  </a>
+  <a href="#">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
   </a>
   <a href="https://www.adobe.com/"_blank"> 
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
@@ -122,24 +127,22 @@
 </p>
 
 ----
-
 <h3 align="center"><b>Let's Connect!! </b><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="75"></h1>
 
 <p align="center">
-  <a href="https://instagram.com/its_ash9" target="blank">
-    <img src=https://img.icons8.com/fluency/48/000000/instagram-new.png "@anushkawijegoonawardana97 alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.facebook.com/aashvitt.singh.5" target="blank">
-    <img src=https://img.icons8.com/fluency/48/000000/facebook.png "@AnushkaWijegoonawardana97 alt=facebook style="margin-bottom: 5px;" />
-  </a>
   <a href="https://www.linkedin.com/in/aashvitt-singh/" target="blank">
-    <img src=https://img.icons8.com/fluency/48/000000/linkedin.png "@anushkawijegoonawardana97 alt=linkedin style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" margin-bottom: 5px;" />
+  </a>
+  <a href="https://instagram.com/its_ash9" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/AashvittSingh?t=b8rVAtNJWrPp0zTCPKgVrA&s=09" target="blank">
-    <img src=https://img.icons8.com/fluency/48/000000/twitter-squared.png "@anushka_wije alt=twitter style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:singhaashvitt@gmail.com" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" margin-bottom: 5px;" />
   </a>
 </p>
-
 
 
 -----
