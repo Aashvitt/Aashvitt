@@ -147,4 +147,4 @@
 
 -----
 
-Credits: [Aashvint Singh](https://github.com/Aashvitt)
+Credits: [Aashvitt Singh](https://github.com/Aashvitt)
