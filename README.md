@@ -111,7 +111,8 @@
 <h3 align="center"><u><b>🛠 IDEs  & Tools  </b></u>  
   
   
-  <img src = "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width = 120px></h3>
+  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 130px></h3>
+
 
 <p align="center">
   <a href="#">
