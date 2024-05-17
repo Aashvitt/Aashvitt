@@ -22,8 +22,7 @@
 
 - ⚡ Fun fact: **I am a Master of Ctrl-C + Ctrl-V 😆**
 
-
---
+- 😄 You can connect with me on **[LinkedIn](https://www.linkedin.com/in/aashvitt-singh/)**
 
 - 📫 You can shoot me an email at **singhaashvitt@gmail.com**
 
