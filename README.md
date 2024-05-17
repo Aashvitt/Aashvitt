@@ -22,6 +22,9 @@
 
 - ⚡ Fun fact: **I am a Master of Ctrl-C + Ctrl-V 😆**
 
+
+--
+
 - 📫 You can shoot me an email at **singhaashvitt@gmail.com**
 
   I'll try to respond as soon as I can.
