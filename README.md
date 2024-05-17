@@ -51,7 +51,7 @@
 
 
 
-<h3 align="center"><u><b>💼 Programming Languages  </b></u><img align="center" alt="Coding" width="60" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif"></h3>
+<h3 align="center"><u><b>💼 Programming Languages  </b></u><img align="center" alt="Coding" width="30" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true"></h3>
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -65,7 +65,7 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/> 
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
@@ -114,6 +114,9 @@
   <img src = "https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width = 120px></h3>
 
 <p align="center">
+  <a href="#">
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
@@ -129,6 +132,9 @@
   </a>
   <a href="#">
     <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  </a>
+  <a href="#">
+    <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
   <a href="https://www.adobe.com/"_blank"> 
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
