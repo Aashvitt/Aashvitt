@@ -82,7 +82,7 @@
 </p>
 
 
-<h3 align="center"><u><b>🗃 Database </b></u><img src = "https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = 25px></h3>
+<h3 align="center"><u><b>🗃 Database </b></u><img src = "https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif" width = 35px></h3>
 
 <p align="center">
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
