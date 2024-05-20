@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hi , I'm Aashvitt Singh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashvitt&label=Profile%20views&color=0e75b6&style=flat" alt="aashvitt" /> </p>
+
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Software%20Developer;Computer%20Science%20Undergraduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
@@ -46,9 +48,14 @@
 
 ---
 
-<h2 align="center"><u><b>Knowledge Base!       </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
+<h2 align="center"><u><b>Knowledge Base!  </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 
+<div align="center">
+  <img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="500"
+       alt="knowledgable" /></a>
+</div>
 
+--
 
 <h3 align="center"><u><b>💼 Programming Languages  </b></u><img align="center" alt="Coding" width="30" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true"></h3>
 
@@ -74,12 +81,8 @@
   </a>
 </p>
 
---
 
-<h3 align="center"><u><b>🗃 Database </b></u>
-
-
-  <img src = "https://user-images.githubusercontent.com/74038190/212284164-662b26f5-a2e4-49cb-b675-4af56e609afa.gif" width = 90px></h3>
+<h3 align="center"><u><b>🗃 Database </b></u><img src = "https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width = 25px></h3>
 
 <p align="center">
   <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
@@ -89,12 +92,8 @@
   </a> 
 </p>
 
---
 
-<h3 align="center"><u><b>🧰 Version Control </b></u>
-
-
-  <img src = "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width = 120px></h3> 
+<h3 align="center"><u><b>🧰 Version Control </b></u><img src = "https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width = 35px></h3> 
 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
@@ -106,12 +105,8 @@
   </a>
 </p>
 
---
-<h3 align="center"><u><b>🛠 IDEs  & Tools  </b></u>  
-  
-  
-  <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 130px></h3>
 
+<h3 align="center"><u><b>🛠 IDEs  & Tools  </b></u><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 35px></h3>
 
 <p align="center">
   <a href="#">
@@ -147,8 +142,19 @@
   </a>
 </p>
 
+-----
 
-----
+
+<h2 align="center" style="margin: 5px 10px;">📊 GitHub Profile Stats</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashvitt&show_icons=true&locale=en&layout=compact" alt="aashvitt" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashvitt&show_icons=true&locale=en" alt="aashvitt" /></p>
+
+
+
+-----
+
+
 <h3 align="center"><b>Let's Connect!! </b><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="80"></h1>
 
 <p align="center">
@@ -166,8 +172,7 @@
   </a>
 </p>
 
-
------
+----
 
 
 Credits: [Aashvitt Singh](https://github.com/Aashvitt)
