@@ -116,10 +116,9 @@
   <a href="https://www.linux.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   </a>
-  </a>
-  <a href="#">
+  <!-- <a href="#">
     <img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>
+  </a> -->
   <a href="#">
     <img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
   </a>
@@ -132,25 +131,27 @@
   <a href="#">
     <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
-  <a href="https://www.adobe.com/"_blank"> 
-    <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
-  </a>
   <a href="https://www.canva.com/"_blank"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/>
   </a>
+  <!-- <a href="https://www.adobe.com/"_blank"> 
+    <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
+  </a>
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  </a>
+  </a> -->
 </p>
+
+--
 
 -----
 
-
+--
 <h2 align="center" style="margin: 5px 10px;">📊 GitHub Profile Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashvitt&show_icons=true&locale=en&layout=compact" alt="aashvitt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashvitt&show_icons=true&locale=en" alt="aashvitt" /></p>
-
+--
 
 
 -----
@@ -172,6 +173,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" margin-bottom: 5px;" />
   </a>
 </p>
+
+--
 
 ----
 
