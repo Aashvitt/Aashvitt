@@ -131,10 +131,10 @@
   <a href="#">
     <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   </a>
-  <a href="https://www.canva.com/"_blank"> 
+  <!-- <a href="https://www.canva.com/"_blank"> 
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="canva"/>
   </a>
-  <!-- <a href="https://www.adobe.com/"_blank"> 
+  <a href="https://www.adobe.com/"_blank"> 
     <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="adobe"/>
   </a>
   <a href="https://www.figma.com/" target="_blank"> 
