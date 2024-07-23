@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Aashvitt Singh  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Hey, I'm Aashvitt Singh!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashvitt&label=Profile%20views&color=0e75b6&style=flat" alt="aashvitt" /> </p>
 
@@ -7,7 +7,7 @@
 </p>
 
 ---
-
+T
 # <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
 
 <img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
