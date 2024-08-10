@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashvitt&label=Profile%20views&color=0e75b6&style=flat" alt="aashvitt" /> </p>
 
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Software%20Developer;Computer%20Science%20Undergraduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Software%20Engineer;Computer%20Science%20Undergraduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 ---
