@@ -6,12 +6,10 @@
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Cyber%20Security%20Enthusiast;Software%20Engineer;Computer%20Science%20Graduate;Updating%20with%20latest%20technologies!!&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
----
+----
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px></picture> **About me**
-
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
-
+# <picture><img src = "https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width = 35px></picture>**About me**
+<img align="right" alt="Coding" width="395" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 💻 I’m currently a **Cyber Security Enthusiast!** 
 
@@ -29,30 +27,17 @@
 
 - 📫 You can shoot me an email at **singhaashvitt@gmail.com**
 
-  I'll try to respond as soon as I can.
-
-- 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1MywxiQWRKUdIfR-HatCq_tg2AsyoSZol/view?usp=sharing)** for more details about me.
+- 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1z52UhgOQwjL4SdVvWHxyVhK6MIoODMu4/view?usp=drive_link)** for more details about me.
 
   I'm open to feedback and suggestions!!
 
---
 
----
-
- <h2 align="center"><u><b>Contributions!!</b></u></h2>
- 
- <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-<br>
-
----
+----
 
 <h2 align="center"><u><b>Knowledge Base!  </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 
 <div align="center">
-  <img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="500"
+  <img  src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" width="900"
        alt="knowledgable" /></a>
 </div>
 
@@ -102,7 +87,7 @@
       alt="git"/>
   </a>
   <a href="https://github.com/Lalit3716" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -142,22 +127,19 @@
   </a> -->
 </p>
 
---
 
 -----
 
---
+
 <h2 align="center" style="margin: 5px 10px;">📊 GitHub Profile Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashvitt&show_icons=true&locale=en&layout=compact" alt="aashvitt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aashvitt&show_icons=true&locale=en" alt="aashvitt" /></p>
---
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aashvitt&" alt="aashvitt" /></p>
 
 
 -----
 
-
-<h3 align="center"><b>Let's Connect!! </b><img src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" width="80"></h1>
+<h3 align="center"><u><b>Let's Connect!! </b></u><img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 85px></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aashvitt-singh/" target="blank">
@@ -174,9 +156,15 @@
   </a>
 </p>
 
---
-
 ----
 
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- 💜 Thanks For Visiting --------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-Credits: [Aashvitt Singh](https://github.com/Aashvitt)
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> Thanks for Visiting [🔝](#--gifs-for-readme--)
+
+### Made with 💜 by [Aashvitt Singh](https://github.com/Aashvitt)
+
+### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+
