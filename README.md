@@ -9,7 +9,7 @@
 ----
 
 # <picture><img src = "https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width = 35px></picture>**About me**
-<img align="right" alt="Coding" width="395" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="385" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 💻 I’m currently a **Cyber Security Enthusiast!** 
 
@@ -138,9 +138,7 @@
 
 
 -----
-
 <h3 align="center"><u><b>Let's Connect!! </b></u><img src = "https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width = 85px></h3>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/aashvitt-singh/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" margin-bottom: 5px;" />
