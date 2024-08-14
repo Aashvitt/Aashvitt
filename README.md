@@ -9,7 +9,7 @@
 ----
 
 # <picture><img src = "https://user-images.githubusercontent.com/74038190/213910352-c88211f2-a405-4dc2-af4c-68d77dbb17a2.png" width = 35px></picture>**About me**
-<img align="right" alt="Coding" width="385" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="370" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 - 💻 I’m currently a **Cyber Security Enthusiast!** 
 
@@ -32,7 +32,7 @@
   I'm open to feedback and suggestions!!
 
 
-----
+------
 
 <h2 align="center"><u><b>Knowledge Base!  </b></u><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h2>
 
