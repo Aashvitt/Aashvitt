@@ -27,7 +27,7 @@
 
 - 📫 You can shoot me an email at **singhaashvitt@gmail.com**
 
-- 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1z52UhgOQwjL4SdVvWHxyVhK6MIoODMu4/view?usp=drive_link)** for more details about me.
+  <!-- - 📄 Please have a look at my **[Resume](https://drive.google.com/file/d/1z52UhgOQwjL4SdVvWHxyVhK6MIoODMu4/view?usp=drive_link)** for more details about me. -->
 
   I'm open to feedback and suggestions!!
 
@@ -164,5 +164,5 @@
 
 ### Made with 💜 by [Aashvitt Singh](https://github.com/Aashvitt)
 
-### Please 🌟 this repository! It really helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
+### Please 🌟 this repository! It helps others to find this!!  <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />
 
